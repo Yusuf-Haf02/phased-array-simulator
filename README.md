@@ -1,6 +1,6 @@
 # 📡 Phased Array Simulator
 
-Simulateur interactif de **réseau d'antennes à balayage électronique** (ULA – *Uniform Linear Array*), développé en Python avec Streamlit, dans le cadre d'un projet de fin d'études (PFE) en Ingénierie RF & Antennes à la **SNRT, Rabat**.
+Simulateur interactif de **réseau d'antennes à balayage électronique** (ULA – *Uniform Linear Array*), développé en Python avec Streamlit, dans le cadre d'un projet PFA en Ingénierie RF & Antennes à la **SNRT, Rabat**.
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://VOTRE-APP.streamlit.app)
 
