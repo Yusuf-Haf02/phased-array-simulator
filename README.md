@@ -70,7 +70,7 @@ phased-array-simulator/
 ## Auteur
 
 **Youssef El Hafiane** — Ingénieur en Systèmes de Télécommunications, Université Ibn Tofail.
-PFE réalisé à la SNRT (Société Nationale de Radiodiffusion et de Télévision), Rabat.
+PFA réalisé à la SNRT (Société Nationale de Radiodiffusion et de Télévision), Rabat.
 
 ## Licence
 
